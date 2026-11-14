@@ -19,3 +19,12 @@ NOTES
 - PDF reports are saved directly on device. Open the Reports tab and tap Download PDF.
 - The financial advisor is rule-based and offline, not a live AI or regulated financial adviser.
 - To update the app, upload the new source files. If the install still shows the older layout, reopen/refresh the Safari website while online to update its cache.
+
+SAVINGS BANK ADDITION — NOVEMBER 2026
+- Back up your existing data from Settings before updating. Replace the source files at the SAME website address; keep browser/site data. Existing ledger records and reservations are preserved.
+- Savings Bank tracks a third real account. Enter any existing balance in Settings > Edit starting balances, or record a Transfer from Bank to Savings Bank when you actually move money. Transfers are not income or expenses.
+- In Goals & Savings, Allocate lets you choose Savings Bank. Only deposited, unassigned savings can be reserved. If an existing pot earmarks the same money in Bank/cash, Release that reservation first, then Allocate from Savings Bank.
+- Savings Bank shows each goal's funded amount, percentage, pending amount and deadline, plus incoming/outgoing history. Unassigned savings are protected from the spending-available figure too.
+- Record payments from Savings Bank as expenses and link the relevant goal to reduce its reservation. If a withdrawal leaves assignments uncovered, the account displays a reconciliation notice; release/reassign the affected reservations.
+- Top mission percentages use Update mission progress. Salary and net worth inputs are manual progress figures; they do not create transactions. Blank net worth uses tracked total money.
+- This update does not move money at your bank or connect to bank services.
